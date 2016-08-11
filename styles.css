@@ -60,12 +60,14 @@ h1 {
 @media screen and (min-width: 550px) {
   .header-content {
     padding-top: 15px;
+    text-align: center;
   }
 }
 
 @media screen and (max-width: 549px) {
   .header-content {
     padding-top: 5px;
+    text-align: center;
   }
 }
 
@@ -83,7 +85,7 @@ h1 {
 
 .my-picture {
   display: block;
-  margin: 0 auto 10px;
+  margin: 0 auto 20px;
   max-width: 50%;
   border: 2px solid white;
   -webkit-border-radius: 50%;
