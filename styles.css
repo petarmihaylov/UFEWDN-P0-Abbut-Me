@@ -39,6 +39,10 @@ header {
   font-weight: bold;
 }
 
+.title {
+  font-weight: bold;
+}
+
 a {
   text-decoration: none;
   font-weight: bold;
